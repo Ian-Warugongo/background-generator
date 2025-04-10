@@ -1,0 +1,20 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "The background generator is an interactive GUI-based tool that allows users to dynamically change and preview background colors in real time.",
+  "homepage": "https://github.com/Ian-Warugongo/background-generator#readme",
+  "bugs": {
+    "url": "https://github.com/Ian-Warugongo/background-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ian-Warugongo/background-generator.git"
+  },
+  "license": "ISC",
+  "author": "Ian Warugongo",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
